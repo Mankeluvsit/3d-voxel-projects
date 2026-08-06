@@ -12,7 +12,7 @@ Each project is a snapshot copy (no nested git history) living in its own folder
 | `3d-iso/` | Isometric 3D experiment (AI Studio) | 5174 |
 | `Voxel-world/` | Voxel world experiment (AI Studio) | 5175 |
 | `skyabc/` | Sky / skybox 3D experiment | 5176 |
-| `babyloniso/` | Babylon.js isometric experiment | 5177 |
+| `babyloniso/` | Isometric experiment (React Three Fiber — despite the name, not Babylon.js) | 5177 |
 | `sky1/` | Empty stub — placeholder for a future sky project | — |
 
 ## Run everything locally
